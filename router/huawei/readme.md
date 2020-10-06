@@ -8,8 +8,7 @@
 
 文件：\[[HG532eV100R001C01B020](./HG532eV100R001C01B020_upgrade_packet.bin)\]  **(CVE-2017-17215)**
 
+分析报告 ： \[[1](https://www.cnblogs.com/deerCode/p/11919612.html)\] ,\[[2](https://www.cnblogs.com/hac425/p/9416936.html)\]
 
 admin
 @Hua1234
-分析报告 ： \[[1](https://www.cnblogs.com/deerCode/p/11919612.html)\] ,\[[2](https://www.cnblogs.com/hac425/p/9416936.html)\]
-
